@@ -1,0 +1,6 @@
+# Ignore emacs junk
+*~
+\#*
+
+# Ignore output directory
+output/
